@@ -18,6 +18,6 @@ FontAwesome/Google Fonts - Icons & Typography
 ✅ Search & Filter Options – Users can search for products and filter based on categories.
 
 # 📩 Contact & Support
-📧 Email: kmgiridharan8899@gmail.com
-🔗 Portfolio: [My-Portfolio](https://giridharan-km.netlify.app)
-🛒 Nostra: [Click here]()
+### 📧 Email: kmgiridharan8899@gmail.com
+### 🔗 Portfolio: [My-Portfolio](https://giridharan-km.netlify.app)
+### 🛒 Nostra: [Click here]()
