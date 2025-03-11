@@ -1,7 +1,7 @@
 # 🛒 Nostra - E-commerce Website
 
 # 🌍 Live Demo
-Open website - 👉🏻[Click Here]()
+Open website - 👉🏻[Click Here](https://nostra-ecom.netlify.app/)
 
 # 📖 About the Project
 Nostra is a fully responsive e-commerce website designed for an engaging and user-friendly online shopping experience.  It showcases modern UI/UX design, smooth interactions, and an intuitive navigation system.
@@ -20,4 +20,4 @@ FontAwesome/Google Fonts - Icons & Typography
 # 📩 Contact & Support
 ### 📧 Email: kmgiridharan8899@gmail.com
 ### 🔗 Portfolio: [My-Portfolio](https://giridharan-km.netlify.app)
-### 🛒 Nostra: [Click here]()
+### 🛒 Nostra: [Click here](https://nostra-ecom.netlify.app/)
