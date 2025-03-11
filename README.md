@@ -13,8 +13,8 @@ JavaScript - Interactive Features
 FontAwesome/Google Fonts - Icons & Typography
 
 # 🚀 Key Features
-✅ Modern & Responsive UI – Works on desktops, tablets, and mobile devices.
-✅ Product Listings Page – Displaying a variety of items with images and descriptions.
+✅ Modern & Responsive UI – Works on desktops, tablets, and mobile devices.  
+✅ Product Listings Page – Displaying a variety of items with images and descriptions.  
 ✅ Search & Filter Options – Users can search for products and filter based on categories.
 
 # 📩 Contact & Support
