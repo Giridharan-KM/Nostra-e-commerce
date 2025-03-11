@@ -4,12 +4,12 @@
 Open website - 👉🏻[Click Here]()
 
 # 📖 About the Project
-Nostra is a fully responsive e-commerce website designed for an engaging and user-friendly online shopping experience. It showcases modern UI/UX design, smooth interactions, and an intuitive navigation system.
+Nostra is a fully responsive e-commerce website designed for an engaging and user-friendly online shopping experience.  It showcases modern UI/UX design, smooth interactions, and an intuitive navigation system.
 
 # 🛠 Built With
-HTML5 - Structure & Semantics
-CSS3 - Styling & Responsive design
-JavaScript - Interactive Features
+HTML5 - Structure & Semantics  
+CSS3 - Styling & Responsive design  
+JavaScript - Interactive Features  
 FontAwesome/Google Fonts - Icons & Typography
 
 # 🚀 Key Features
